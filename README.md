@@ -13,4 +13,6 @@ The project includes three files:
 To see the page, just download Cafes_in_CBD.html and open in local machine.
 
 Screenshot:
-!<div align=center>[image](https://github.com/dpan968/Cafe_In_CBD/blob/master/Cafe_in_CBD_screenshot.JPG)</div>
+<div align=center>
+  <img src = "https://github.com/dpan968/Cafe_In_CBD/blob/master/Cafe_in_CBD_screenshot.JPG">
+</div>
