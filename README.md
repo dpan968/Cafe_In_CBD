@@ -11,3 +11,4 @@ The project includes three files:
     Raw data downloaded from the City of Melbourne that contains information of Cafes in the City of Melbourne.
 
 To see the page, just download Cafes_in_CBD.html and open in local machine.
+![image](https://github.com/dpan968/Cafe_In_CBD/blob/master/Cafe_in_CBD_screenshot.JPG)
