@@ -9,3 +9,5 @@ The project includes three files:
     The map also has a marker layer to give detailed information of each Cafe, including a hyperlink to the google search result of that cafe
   - Cafe_2018.csv
     Raw data downloaded from the City of Melbourne that contains information of Cafes in the City of Melbourne.
+
+To see the page, just download Cafes_in_CBD.html and open in local machine.
